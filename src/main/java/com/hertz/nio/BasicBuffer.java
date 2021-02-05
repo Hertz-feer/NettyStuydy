@@ -4,8 +4,6 @@ import java.nio.IntBuffer;
 
 /**
  * @author Hertz
- * @Classname BasicBuffer
- * @Description BufferDemo
  * @date 2020/8/16 17:19
  */
 public class BasicBuffer {

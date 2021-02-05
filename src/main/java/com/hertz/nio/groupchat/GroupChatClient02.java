@@ -12,8 +12,6 @@ import java.util.Set;
 
 /**
  * @author Hertz
- * @Classname GroupChatClent
- * @Description 群聊客户端
  * @date 2020/8/26 21:30
  */
 public class GroupChatClient02 {

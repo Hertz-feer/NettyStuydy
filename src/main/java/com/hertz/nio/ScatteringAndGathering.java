@@ -10,8 +10,6 @@ import java.util.Arrays;
 
 /**
  * @author Hertz
- * @Classname ScatteringAndGathering
- * @Description 分散和聚合
  * @date 2020/8/22 15:23
  */
 public class ScatteringAndGathering {

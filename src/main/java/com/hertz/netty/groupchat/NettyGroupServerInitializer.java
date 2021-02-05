@@ -8,8 +8,6 @@ import io.netty.handler.codec.string.StringEncoder;
 
 /**
  * @author Hertz
- * @Classname NettyGroupServerInitializer
- * @Description Initializer
  * @date 2020/9/12 15:17
  */
 public class NettyGroupServerInitializer extends ChannelInitializer<SocketChannel> {

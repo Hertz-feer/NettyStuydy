@@ -7,8 +7,6 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 /**
  * @author Hertz
- * @Classname NettyHttpServer
- * @Description netty自制http服务器
  * @date 2020/8/30 18:57
  */
 public class NettyHttpServer {

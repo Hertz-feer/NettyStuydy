@@ -5,8 +5,6 @@ import io.netty.buffer.Unpooled;
 
 /**
  * @author Hertz
- * @Classname NettyBuffer
- * @Description byteBuf
  * @date 2020/9/2 17:37
  */
 public class NettyBuffer {

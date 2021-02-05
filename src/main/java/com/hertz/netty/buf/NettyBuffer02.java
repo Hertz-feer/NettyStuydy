@@ -6,8 +6,6 @@ import io.netty.util.CharsetUtil;
 
 /**
  * @author Hertz
- * @Classname NettyBuffer02
- * @Description httpBuffer
  * @date 2020/9/2 20:42
  */
 public class NettyBuffer02 {

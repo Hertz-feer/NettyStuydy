@@ -12,8 +12,6 @@ import java.util.Set;
 
 /**
  * @author Hertz
- * @Classname NioSelectService
- * @Description selector
  * @date 2020/8/23 16:58
  */
 public class NioSelectService {

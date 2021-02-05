@@ -9,8 +9,6 @@ import java.util.Set;
 
 /**
  * @author Hertz
- * @Classname GroupChatServer
- * @Description 群聊客户端
  * @date 2020/8/26 11:01
  */
 public class GroupChatServer {

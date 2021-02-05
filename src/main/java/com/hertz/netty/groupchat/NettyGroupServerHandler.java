@@ -12,8 +12,6 @@ import java.util.Date;
 
 /**
  * @author Hertz
- * @Classname NettyGroupServerHandler
- * @Description netty服务器业务处理器
  * @date 2020/9/4 16:33
  */
 public class NettyGroupServerHandler extends SimpleChannelInboundHandler<String> {

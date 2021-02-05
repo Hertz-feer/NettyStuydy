@@ -7,8 +7,6 @@ import java.nio.channels.SocketChannel;
 
 /**
  * @author Hertz
- * @Classname NioSelecClient
- * @Description select客户端
  * @date 2020/8/23 17:32
  */
 public class NioSelectClient02 {

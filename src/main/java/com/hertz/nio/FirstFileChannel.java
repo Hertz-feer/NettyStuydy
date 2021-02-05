@@ -7,8 +7,6 @@ import java.nio.channels.FileChannel;
 
 /**
  * @author Hertz
- * @Classname FirstFileChannel
- * @Description 文件Channel
  * @date 2020/8/16 19:40
  */
 public class FirstFileChannel {

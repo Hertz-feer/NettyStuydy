@@ -11,8 +11,6 @@ import java.net.URI;
 
 /**
  * @author Hertz
- * @Classname NettyHttpHandler
- * @Description http处理器
  * @date 2020/8/30 19:04
  */
 public class NettyHttpHandler extends SimpleChannelInboundHandler<HttpObject> {

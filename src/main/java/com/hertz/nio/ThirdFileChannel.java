@@ -8,8 +8,6 @@ import java.nio.channels.FileChannel;
 
 /**
  * @author Hertz
- * @Classname ThirdFileChannel
- * @Description 文件转存
  * @date 2020/8/18 16:10
  */
 public class ThirdFileChannel {

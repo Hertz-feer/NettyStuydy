@@ -9,8 +9,6 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 /**
  * @author Hertz
- * @Classname NettyGroupChatServer
- * @Description Netty群聊服务器端
  * @date 2020/9/4 16:17
  */
 public class NettyGroupChatServer {

@@ -6,8 +6,6 @@ import io.netty.handler.codec.http.HttpServerCodec;
 
 /**
  * @author Hertz
- * @Classname NettyHttpInitializer
- * @Description 初始化器
  * @date 2020/8/30 19:05
  */
 public class NettyHttpInitializer extends ChannelInitializer<SocketChannel> {
