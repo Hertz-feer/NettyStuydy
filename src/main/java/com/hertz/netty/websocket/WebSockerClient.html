@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NettyWebSocketClient</title>
+</head>
+<body>
+<script>
+    let socket;
+
+    if (window.WebSocket) {
+        socket = new WebSocket("ws://localhost:7000/hello")
+        socket.onmessage = function (event) {
+            let responseText = document.getElementById("responseText");
+            responseText.value = responseText.value + "\n" + event.data;
+        }
+        socket.onopen = function (event) {
+            let responseText = document.getElementById("responseText");
+            responseText.value = "连接开启！"
+        }
+        socket.onclose = function (event) {
+            let responseText = document.getElementById("responseText");
+            responseText.value = responseText.value + "\n" + "连接关闭！"
+        }
+    } else {
+        alert("当前浏览器不支持WebSocket编程")
+    }
+
+    function send(msg){
+        if (window.WebSocket){
+            if (socket.readyState == WebSocket.OPEN){
+                socket.send(msg);
+                document.getElementById("message").value = "";
+            }else {
+                let responseText = document.getElementById("responseText");
+                responseText.value = responseText.value + "\n" + "连接未开启！"
+            }
+        }else {
+            return;
+        }
+    }
+</script>
+<form onsubmit="return false">
+    <label>
+        <textarea name="message" id="message" style="height: 300px;width: 300px"></textarea>
+    </label>
+    <input type="button" value="发送消息" onclick="send(this.form.message.value)">
+    <label>
+        <textarea id="responseText" name="responseText" style="height: 300px;width: 300px"></textarea>
+    </label>
+    <input type="button" value="清空内容" onclick="document.getElementById('responseText').value=''">
+</form>
+</body>
+</html>
