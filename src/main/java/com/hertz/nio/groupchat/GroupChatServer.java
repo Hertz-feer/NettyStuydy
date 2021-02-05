@@ -8,10 +8,10 @@ import java.util.Iterator;
 import java.util.Set;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname GroupChatServer
  * @Description 群聊客户端
- * @Date 2020/8/26 11:01
+ * @date 2020/8/26 11:01
  */
 public class GroupChatServer {
 

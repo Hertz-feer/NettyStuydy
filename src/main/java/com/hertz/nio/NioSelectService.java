@@ -11,10 +11,10 @@ import java.util.Iterator;
 import java.util.Set;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname NioSelectService
  * @Description selector
- * @Date 2020/8/23 16:58
+ * @date 2020/8/23 16:58
  */
 public class NioSelectService {
 

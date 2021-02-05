@@ -10,10 +10,10 @@ import io.netty.util.CharsetUtil;
 import java.net.URI;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname NettyHttpHandler
  * @Description http处理器
- * @Date 2020/8/30 19:04
+ * @date 2020/8/30 19:04
  */
 public class NettyHttpHandler extends SimpleChannelInboundHandler<HttpObject> {
 

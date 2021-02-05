@@ -6,10 +6,10 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname NettyHttpServer
  * @Description netty自制http服务器
- * @Date 2020/8/30 18:57
+ * @date 2020/8/30 18:57
  */
 public class NettyHttpServer {
 

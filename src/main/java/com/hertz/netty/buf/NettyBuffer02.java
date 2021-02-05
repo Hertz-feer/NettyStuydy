@@ -5,7 +5,7 @@ import io.netty.buffer.Unpooled;
 import io.netty.util.CharsetUtil;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname NettyBuffer02
  * @Description httpBuffer
  * @date 2020/9/2 20:42

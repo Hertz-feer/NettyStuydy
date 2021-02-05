@@ -9,10 +9,8 @@ import io.netty.util.CharsetUtil;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author by Hertz
- * @Classname NettyServerHandler
- * @Description Netty的业务处理器
- * @Date 2020/8/28 15:48
+ * @author Hertz
+ * @date 2020/8/28 15:48
  */
 public class NettyServerHandler extends ChannelInboundHandlerAdapter {
 

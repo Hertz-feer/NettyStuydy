@@ -6,10 +6,10 @@ import java.nio.ByteBuffer;
 import java.nio.channels.SocketChannel;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname NioSelecClient
  * @Description select客户端
- * @Date 2020/8/23 17:32
+ * @date 2020/8/23 17:32
  */
 public class NioSelectClient02 {
 

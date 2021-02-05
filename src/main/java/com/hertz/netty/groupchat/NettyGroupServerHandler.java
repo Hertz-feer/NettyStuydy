@@ -11,10 +11,10 @@ import io.netty.util.concurrent.GlobalEventExecutor;
 import java.util.Date;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname NettyGroupServerHandler
  * @Description netty服务器业务处理器
- * @Date 2020/9/4 16:33
+ * @date 2020/9/4 16:33
  */
 public class NettyGroupServerHandler extends SimpleChannelInboundHandler<String> {
 

@@ -7,10 +7,8 @@ import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.util.CharsetUtil;
 
 /**
- * @author by Hertz
- * @Classname NettyClientHandler
- * @Description 客户端处理器
- * @Date 2020/8/29 16:05
+ * @author Hertz
+ * @date 2020/8/29 16:05
  */
 public class NettyClientHandler extends ChannelInboundHandlerAdapter {
     @Override

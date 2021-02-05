@@ -7,10 +7,10 @@ import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname ThirdFileChannel
  * @Description 文件转存
- * @Date 2020/8/18 16:10
+ * @date 2020/8/18 16:10
  */
 public class ThirdFileChannel {
 

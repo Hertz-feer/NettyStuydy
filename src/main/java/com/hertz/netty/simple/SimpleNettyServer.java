@@ -10,10 +10,8 @@ import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 /**
- * @author by Hertz
- * @Classname SimpleNettyServer
- * @Description netty简单服务、
- * @Date 2020/8/28 11:00
+ * @author Hertz
+ * @date 2020/8/28 11:00
  */
 public class SimpleNettyServer {
     public static void main(String[] args) throws InterruptedException {

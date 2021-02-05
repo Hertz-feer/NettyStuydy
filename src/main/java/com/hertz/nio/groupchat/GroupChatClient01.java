@@ -11,10 +11,10 @@ import java.util.Scanner;
 import java.util.Set;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname GroupChatClent
  * @Description 群聊客户端
- * @Date 2020/8/26 21:30
+ * @date 2020/8/26 21:30
  */
 public class GroupChatClient01 {
 

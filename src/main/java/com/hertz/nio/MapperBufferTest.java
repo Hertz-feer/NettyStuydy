@@ -6,10 +6,10 @@ import java.nio.MappedByteBuffer;
 import java.nio.channels.FileChannel;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname MapperBufferTest
  * @Description MapperBuffer将文件读到内存中后直接在内存中读写文件
- * @Date 2020/8/22 15:07
+ * @date 2020/8/22 15:07
  */
 public class MapperBufferTest {
 

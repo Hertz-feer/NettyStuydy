@@ -8,10 +8,8 @@ import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioSocketChannel;
 
 /**
- * @author by Hertz
- * @Classname SimpleNettyClient
- * @Description Netty客户端
- * @Date 2020/8/28 16:32
+ * @author Hertz
+ * @date 2020/8/28 16:32
  */
 public class SimpleNettyClient {
 

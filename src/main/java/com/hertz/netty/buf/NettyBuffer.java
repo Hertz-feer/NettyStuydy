@@ -4,10 +4,10 @@ import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname NettyBuffer
  * @Description byteBuf
- * @Date 2020/9/2 17:37
+ * @date 2020/9/2 17:37
  */
 public class NettyBuffer {
 

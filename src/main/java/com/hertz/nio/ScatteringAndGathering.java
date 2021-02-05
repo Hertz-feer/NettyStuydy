@@ -9,10 +9,10 @@ import java.nio.channels.SocketChannel;
 import java.util.Arrays;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname ScatteringAndGathering
  * @Description 分散和聚合
- * @Date 2020/8/22 15:23
+ * @date 2020/8/22 15:23
  */
 public class ScatteringAndGathering {
 

@@ -3,10 +3,10 @@ package com.hertz.nio;
 import java.nio.IntBuffer;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname BasicBuffer
  * @Description BufferDemo
- * @Date 2020/8/16 17:19
+ * @date 2020/8/16 17:19
  */
 public class BasicBuffer {
 

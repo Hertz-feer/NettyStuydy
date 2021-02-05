@@ -8,7 +8,8 @@ import io.netty.handler.codec.LineBasedFrameDecoder;
 /**
  * @author Hertz
  */
-public class NettyServerInitializer extends ChannelInitializer<SocketChannel> {
+public class
+NettyServerInitializer extends ChannelInitializer<SocketChannel> {
     @Override
     protected void initChannel(SocketChannel ch) throws Exception {
         ChannelPipeline pipeline = ch.pipeline();

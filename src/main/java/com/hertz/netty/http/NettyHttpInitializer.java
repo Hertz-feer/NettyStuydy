@@ -5,10 +5,10 @@ import io.netty.channel.socket.SocketChannel;
 import io.netty.handler.codec.http.HttpServerCodec;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname NettyHttpInitializer
  * @Description 初始化器
- * @Date 2020/8/30 19:05
+ * @date 2020/8/30 19:05
  */
 public class NettyHttpInitializer extends ChannelInitializer<SocketChannel> {
 

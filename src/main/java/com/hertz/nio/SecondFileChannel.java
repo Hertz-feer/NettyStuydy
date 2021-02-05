@@ -7,10 +7,10 @@ import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname SecondFileChannel
  * @Description 读取文件信息
- * @Date 2020/8/16 20:12
+ * @date 2020/8/16 20:12
  */
 public class SecondFileChannel {
 

@@ -7,10 +7,10 @@ import io.netty.handler.codec.string.StringDecoder;
 import io.netty.handler.codec.string.StringEncoder;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname NettyGroupServerInitializer
  * @Description Initializer
- * @Date 2020/9/12 15:17
+ * @date 2020/9/12 15:17
  */
 public class NettyGroupServerInitializer extends ChannelInitializer<SocketChannel> {
 

@@ -6,10 +6,10 @@ import java.io.IOException;
 import java.nio.channels.FileChannel;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname FourthFileChannel
  * @Description 文件拷贝
- * @Date 2020/8/18 16:44
+ * @date 2020/8/18 16:44
  */
 public class FourthFileChannel {
 

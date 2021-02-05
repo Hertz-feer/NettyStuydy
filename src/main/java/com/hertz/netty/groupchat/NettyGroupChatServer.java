@@ -8,10 +8,10 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname NettyGroupChatServer
  * @Description Netty群聊服务器端
- * @Date 2020/9/4 16:17
+ * @date 2020/9/4 16:17
  */
 public class NettyGroupChatServer {
 

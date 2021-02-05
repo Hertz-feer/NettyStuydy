@@ -6,10 +6,10 @@ import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 
 /**
- * @author by Hertz
+ * @author Hertz
  * @Classname FirstFileChannel
  * @Description 文件Channel
- * @Date 2020/8/16 19:40
+ * @date 2020/8/16 19:40
  */
 public class FirstFileChannel {
 
